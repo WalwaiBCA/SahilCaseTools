@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Text file
+=======
+Sahil
+Vinay
+Robin
+Adwait
+Prajwal
+Krish
+
+>>>>>>> bb7ca86ceb1f8a63b942ccea3c21bd6697cedfbe
